@@ -5,4 +5,4 @@ User-agent: *
 Disallow: 
 
 # Sitemap dosyasının yolu
-Sitemap: https://jojobetodeme.github.io/sitemap.xml
+Sitemap: https://jojobetodeme.github.io/giris--jojobet/sitemap.xml
