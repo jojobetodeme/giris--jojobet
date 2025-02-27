@@ -1,0 +1,8 @@
+# Genel Robots.txt Dosyası
+
+# Tüm arama motorlarının sitenizi taramasına izin veriyoruz
+User-agent: *
+Disallow: 
+
+# Sitemap dosyasının yolu
+Sitemap: https://jojobetodeme.github.io/sitemap.xml
