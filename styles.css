@@ -92,15 +92,21 @@ button:hover {
     background-color: #2C6B2F; /* Daha koyu yeşil */
 }
 
-/* Footer */
+/* Footer için stil düzenlemeleri */
 footer {
     text-align: center;
     background-color: #388E3C; /* Koyu yeşil */
-    color: white;
+    color: white; /* Beyaz yazı rengi */
     padding: 10px;
     position: fixed;
     width: 100%;
     bottom: 0;
+}
+
+/* Footer metni için kontrastı artırma */
+footer p {
+    font-size: 1rem; /* Daha okunabilir bir yazı boyutu */
+    color: white; /* Beyaz metin rengi */
 }
 
 /* Mobil uyumluluk */
