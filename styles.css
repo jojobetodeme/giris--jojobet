@@ -53,13 +53,9 @@ h2 {
         background-color: #388E3C; /* Koyu yeşil */
         box-shadow: 0 0 10px rgba(0, 255, 0, 0.5), 0 0 20px rgba(0, 255, 0, 0.5);
     }
-    33% {
+    50% {
         background-color: #FFEB3B; /* Sarı */
         box-shadow: 0 0 10px rgba(255, 235, 59, 0.5), 0 0 20px rgba(255, 235, 59, 0.5);
-    }
-    66% {
-        background-color: #FF9800; /* Turuncu */
-        box-shadow: 0 0 10px rgba(255, 152, 0, 0.5), 0 0 20px rgba(255, 152, 0, 0.5);
     }
     100% {
         background-color: #388E3C; /* Koyu yeşil */
@@ -73,7 +69,6 @@ h2 {
 }
 
 button {
-    text-align: center;
     background-color: #388E3C; /* Koyu yeşil */
     color: white; /* Beyaz yazı rengi */
     padding: 15px 30px;
@@ -92,18 +87,17 @@ button:hover {
     background-color: #2C6B2F; /* Daha koyu yeşil */
 }
 
-/* Footer için stil düzenlemeleri */
+/* Footer */
 footer {
     text-align: center;
     background-color: #388E3C; /* Koyu yeşil */
-    color: white; /* Beyaz yazı rengi */
+    color: white;
     padding: 10px;
     position: fixed;
     width: 100%;
     bottom: 0;
 }
 
-/* Footer metni için kontrastı artırma */
 footer p {
     font-size: 1rem; /* Daha okunabilir bir yazı boyutu */
     color: white; /* Beyaz metin rengi */
